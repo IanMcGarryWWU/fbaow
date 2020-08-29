@@ -1,0 +1,163 @@
+{
+  "main": {
+    "name":"Foundation for the Bioregional Autonomy of the Orinoco Watershed",
+    "description":"Our goal is to work with groups, neighbourhoods, hamlets, villages and Community based organisations in the Orinoco River Watershed to regenerate damaged ecosystems, to recognise the local, natural and human resources available and to establish polyculture systems to create self-sufficient, sustainable communities",
+    "image":"logo.jpg",
+    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "john.stollmeyer@gmail.com",
+    "phone": "555-555-5555",
+    "donationlink":"https://fundmetnt.com/campaign/pos-watershed-regeneration?fbclid=IwAR2GrkXfyVgCbClLKc6NfAA_BXa9z9qDaGmKQHOHVxQFVlk21Pll9-5YXsE",
+    "address":{
+      "street":"6 St. Ann’s Avenue",
+      "city":"St. Ann’s",
+      "state":"Trinidad and Tobago",
+      "zip": ""
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload":"http://timbakerdev.com",
+    "aims": [
+      {
+        "index": "1",
+        "text": "To conserve and restore the landscapes and waterways needed for its health."
+      },
+      {
+        "index": "2",
+        "text": "To fund the implementation of contour drains on the ridge of the St. Ann’s watershed in an attempt to mitigate flooding in the Capital City of Port-of-Spain."
+      },
+      {
+        "index": "3",
+        "text": "To facilitate the transformation of livelihoods that have been based on industrial scale resource extraction to a regenerative economy with equitable and sustainable resource use."
+      },
+      {
+        "index": "4",
+        "text": "To act as a catalyst and broker to create the institutions needed to envision, inform and finance a regenerative economy."
+      },
+      {
+        "index": "5",
+        "text": "To provide support for regeneration entrepreneurs."
+      },
+      {
+        "index": "6",
+        "text": "To offer tools and resources to those who promote positive change at the intersection of ecosystem regeneration, economic opportunity and community vitality."
+      },
+      {
+        "index": "7",
+        "text": "To identify high value products based on surplus that require a minimum of processing for economic stability."
+      },
+      {
+        "index": "8",
+        "text": "To promote community re-vitalization and ecological restoration."
+      },
+      {
+        "index": "9",
+        "text": "To share information (including genetic) worldwide which facilitates the optimizing of cultural and biological diversity."
+      }
+    ],
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/OrinocoAutonomy/",
+        "className":"fa fa-facebook"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "education":[
+      {
+        "school":"University?",
+        "degree":"Masters in Beer tasting",
+        "graduated":"April 2007",
+        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+      },
+      {
+        "school":"School #1 Maybe College?",
+        "degree":"What did you study 101",
+        "graduated":"March 2003",
+        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+      }
+    ],
+    "quotes": [
+      {
+        "author": "Daniel Christian Wahl",
+        "text": "It is important to highlight that such regenerative cultures will be different depending on the places and bioregions they emerge from. Just as life’s biodiversity adds to its capacity for creative evolution, so does our cultural diversity constitute a wealth of experience and perspectives. The point is not that we all need to agree on everything or see the world in the same way, rather it is that in our diversity we all aim to participate in ways that support the health, well-being and evolutionary potential of all of humanity and all of life.There is no one-size-fits-all receipt for creating regenerative cultures. Sorry to disappoint."
+      },
+      {
+        "author": "Thomas Berry",
+        "text": "The time has come to lower our voices, to cease imposing our mechanistic patterns on the biological processes of the earth, to resist the impulse to control, to command, to force, to oppress, and to begin quite humbly to follow the guidance of the larger community on which all life depends."
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Canadian Wanderlust",
+        "category":"My Travel Blog for my post-university travels",
+        "image":"canadian-wanderlust.jpg",
+        "url":"https://www.canadianwanderlust.com"
+      },
+      {
+        "title":"Fury Fighting Gear",
+        "category":"(offline now) A fighting gear company I started",
+        "image":"fury-fighting-gear.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Original Thai Food",
+        "category":"Website I built for a restaurant I like in Thailand",
+        "image":"original-thai-food.jpg",
+        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title":"Resume Website",
+        "category":"A React based resume website template",
+        "image":"resume-website.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Smirkspace",
+        "category":"(MVP Only) A React and Meteor based chat University project.",
+        "image":"smirkspace.jpg",
+        "url":"http://www.smirkspace.com"
+      }
+    ],
+    "videos": [
+      {
+        "title": "Tree Planting Techniques",
+        "id": "viOJQnNARsA"
+      },
+      {
+        "title": "FBAOW Gayap",
+        "id": "ArhAQPzc1Eg"
+      },
+      {
+        "title": "Bush Kitchen",
+        "id": "7iOwJ6yVcAw"
+      },
+      {
+        "title": "Rainwater Collection",
+        "id": "B5ZV2ymXsys"
+      },
+      {
+        "title": "Ponds",
+        "id": "BUthzbnUl2I"
+      },
+      {
+        "title": "Fire Trace Working",
+        "id": "sxS-WTP_J7I"
+      },
+      {
+        "title": "Creating the zig-zag trail on the ridgeline fire trace",
+        "id": "01Unfl7xQR4"
+      },
+      {
+        "title": "Calibrating an A-Frame",
+        "id": "aEWuuPp0gPI"
+      },
+      {
+        "title": "Clearing the Fondes Amandes ridgeline fire trace",
+        "id": "-zsamL7EnTg"
+      }
+    ]
+  }
+}
