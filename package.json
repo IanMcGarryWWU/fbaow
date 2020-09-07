@@ -17,7 +17,7 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build && rd /s /q docs",
-    "postbuild": "rename build docs",
+    "postbuild": "rename build docs && fecho www.fbaow.org  > CNAME && move CNAME docs",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
   }

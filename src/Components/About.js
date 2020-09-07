@@ -29,10 +29,9 @@ class About extends Component {
          </div>
       </div>
           <div className={"paddingrow"}/>
-          <div className={"Wrapper"}>
-              <a href="testlink" className="centerbtn"><i className="fa"/><Link to="/exec">Exec Summary</Link></a>
-
-          </div>
+          <p align="center">
+              <Link to="/exec">Click here to see Exec Summary</Link>
+          </p>
    </section>
     );
   }
