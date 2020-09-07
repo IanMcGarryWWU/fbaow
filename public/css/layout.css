@@ -24,6 +24,10 @@
 
 body { background: #0f0f0f; }
 
+.execcontainer {
+    padding: 25px;
+}
+
 /* ------------------------------------------------------------------ */
 /* b. Header Styles
 /* ------------------------------------------------------------------ */
@@ -180,6 +184,19 @@ ul#nav li.current a { color: #fe6928; }
 /* ------------------------------------------------------------------ */
 /* c. About Section
 /* ------------------------------------------------------------------ */
+
+.wrapper {
+    height: 35px;
+}
+
+.paddingrow {
+    height: 25px;
+}
+
+.centerbtn {
+    padding: 25px;
+    background-color: brown;
+}
 
 #about {
    background: #000524;

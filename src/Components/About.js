@@ -1,4 +1,8 @@
 import React, { Component } from 'react';
+import {
+    Link
+} from "react-router-dom";
+
 
 class About extends Component {
   render() {
@@ -24,7 +28,11 @@ class About extends Component {
              </div>
          </div>
       </div>
+          <div className={"paddingrow"}/>
+          <div className={"Wrapper"}>
+              <a href="testlink" className="centerbtn"><i className="fa"/><Link to="/exec">Exec Summary</Link></a>
 
+          </div>
    </section>
     );
   }
