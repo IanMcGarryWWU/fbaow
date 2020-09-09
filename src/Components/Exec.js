@@ -1,6 +1,11 @@
 import React, { Component } from 'react';
 
 class Exec extends Component {
+
+    componentDidMount() {
+        window.scrollTo(0, 0);
+    }
+
     render() {
         return (
             <div className="execcontainer">
@@ -71,13 +76,13 @@ class Exec extends Component {
                         height="119"
                         src="images/exec2.jpg"
                     />
-                    <p> Bracken </p>
+                    <p>  Banga and Bull grass </p>
                     <img
                         width="245"
                         height="118"
                         src="images/exec3.jpg"
                     />
-                    <p> Banga and Bull grass </p>
+                    <p> Bracken </p>
                 </p>
                 <p>
                     The awareness of the dire consequences of this tragedy has yet to reach
@@ -244,15 +249,15 @@ class Exec extends Component {
                 <ol start="1" type="1">
                     <li>
                         Clear a 20&#8217; wide trace on the Fondes Amandes ridge above the
-                        Chancellor/Hololo benching as a fire break
+                        Chancellor/Hololo benching as a fire break - DONE
                     </li>
                     <li>
                         Dig a zig zag trail within this trace to maintain the gradient and
-                        mitigate erosion.
+                        mitigate erosion. - DONE
                     </li>
                     <li>
                         Construct a check dam in the perennial spring to the east of the ridge
-                        and run &#189;&#8221; PVC pipe to supply water to a base camp.
+                        and run &#189;&#8221; PVC pipe to supply water to a base camp. - DONE
                     </li>
                     <li>
                         Establish base camp at highest point that can be fed by this water
@@ -263,7 +268,7 @@ class Exec extends Component {
                     </li>
                     <li>
                         Establish work camp within forest canopy as high up on main ridge as
-                        possible.
+                        possible. - DONE
                         <ul>
                             <li>
                                 &#183; Bench area for kitchen, dining and sleeping.

@@ -30,7 +30,7 @@ class About extends Component {
       </div>
           <div className={"paddingrow"}/>
           <p align="center">
-              <Link to="/exec">Click here to see Exec Summary</Link>
+              <Link to="/exec">PORT OF SPAIN WATERSHED REGENERATION</Link>
           </p>
    </section>
     );
