@@ -36,9 +36,6 @@ class Header extends Component {
             <h1 className="responsive-headline">{name}</h1>
             <h3>{description}.</h3>
             <hr />
-            <ul className="social">
-               <a href={donationlink} className="button btn"><i className="fa"></i>Donate</a>
-            </ul>
          </div>
       </div>
 
